@@ -1,0 +1,21 @@
+// Import the functions you need from the SDKs you need
+import { initializeApp } from "firebase/app";
+// TODO: Add SDKs for Firebase products that you want to use
+// https://firebase.google.com/docs/web/setup#available-libraries
+
+// Your web app's Firebase configuration
+const firebaseConfig = {
+  apiKey: "AIzaSyBk3ih6PbGkmVRXKTRkl8S_J9Dc8wmLKVg",
+  authDomain: "linkedin-clone-77ebe.firebaseapp.com",
+  projectId: "linkedin-clone-77ebe",
+  storageBucket: "linkedin-clone-77ebe.appspot.com",
+  messagingSenderId: "943667765212",
+  appId: "1:943667765212:web:9790ed6fbc2086be3ef919"
+};
+
+// Initialize Firebase
+const app = initializeApp(firebaseConfig);
+
+<img width="200" src="https://media-exp1.licdn.com/dms/image/C5603AQGxbRPt-OuAdw/profile-displayphoto-shrink_200_200/0/1517757772101?e=1645056000&amp;v=beta&amp;t=JEUXHgj78lE-b6wj7RQ4SiMFjOWSmhEesCRdovHi4Qc" height="200" alt="Garrett Cutler" id="ember46" class="ember-view profile-photo-edit__preview">
+
+https://media-exp1.licdn.com/dms/image/C5603AQGxbRPt-OuAdw/profile-displayphoto-shrink_200_200/0/1517757772101?e=1645056000&amp;v=beta&amp;t=JEUXHgj78lE-b6wj7RQ4SiMFjOWSmhEesCRdovHi4Qc
